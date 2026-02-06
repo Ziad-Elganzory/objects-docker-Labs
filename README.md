@@ -1,4 +1,4 @@
-# 🐳 Lab 1 — Hacking the NGINX Container
+# Lab 1 — Hacking the NGINX Container
 
 This lab demonstrates **two ways** to modify the default NGINX web page inside a Docker container.
 
