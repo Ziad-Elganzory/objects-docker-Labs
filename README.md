@@ -113,7 +113,7 @@ http://localhost:8080
 
 ---
 
-# 📊 Quick Comparison
+# Quick Comparison
 
 | Method | Persistent | Best For |
 |--------|-----------|-----------|
@@ -122,7 +122,7 @@ http://localhost:8080
 
 ---
 
-# 🧹 Cleanup (Optional)
+# Cleanup (Optional)
 
 Stop and remove containers:
 
